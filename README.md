@@ -4,5 +4,5 @@
 ## Autores
 - Guilherme
 - Henrico 
-- Vitor
-- Nicolas
+- Vitor Rm-14680
+- Nicolas Rm-15266
